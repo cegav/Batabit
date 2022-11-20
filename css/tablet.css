@@ -1,0 +1,14 @@
+
+.main-tables-container {
+    overflow-x: none;
+    overscroll-behavior-x: none;
+}
+
+.main-tables-container::-webkit-scrollbar {
+    background-color: none;
+    height: 0px;
+}
+
+.main-tables-container::-webkit-scrollbar-thumb {
+    background-color: none;
+}
